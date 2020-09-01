@@ -44,7 +44,7 @@ function activateCheats() {
     cardContainer.style.visibility = 'hidden';
     document.body.style.backgroundImage = "url('https://github.com/chrisowensdev/NIHYO_python_project/raw/master/images/intro_screen.png')";
 
-    var audio = new Audio('../Excellent.wav');
+    var audio = new Audio('https://kaitlinscandles.com/kaitlinscandles/Pictures/Excellent.wav');
     audio.play();
 
 }
